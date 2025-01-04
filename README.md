@@ -1,2 +1,3 @@
 # sample
-this is my first git repository
+this is my first git repository.
+Author - Sunil Kumar D O
